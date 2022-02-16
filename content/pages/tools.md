@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: 7d32f04d-2234-de64-3999-87c533226c9c
 ---
@@ -10,8 +13,8 @@ Properties of Water
 [SteamTab Companion](http://www.chemicalogic.com/Pages/DownloadSteamTabCompanion.html)  
 A free Windows application from ChemicaLogic that models the thermodynamic and transport properties of water and steam.
 
-MATLAB® Scripts
----------------
+MATLAB{{< sup "®" >}} Scripts
+-----------------------------
 
 [Saturation Pressure at a Given Temperature T (M)]({{< baseurl >}}/resources/ps)
 

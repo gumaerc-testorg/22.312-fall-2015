@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: daced6d6-3ad2-d0f1-8f10-bf974c740fb5
 ---
@@ -112,7 +114,7 @@ Homework and Reading Assignment Practices
 1.  Units: You are to conform to recommended engineering practice by using units based on the International System (SI).
 2.  In writing your answers is important that you supply enough information to show how you have solved the problem. It is not necessary to repeat derivations already given in enough detail in the text or lectures.
 3.  It is considered acceptable for you to work completely independently; consult instructor; and / or work with other students. However, do not adopt your solution directly from any outside source without being sure that you understand both concepts and calculations. Points may be deducted if it appears that you do not understand.
-4.  Computer usage: Some homework problems may be solved efficiently using MATLAB®, Mathcad or other computer programs.
+4.  Computer usage: Some homework problems may be solved efficiently using MATLAB{{< sup "®" >}}, Mathcad or other computer programs.
 5.  Late solutions: Solutions submitted after the due date will receive no more than 50% credit. An all-student relaxation of this rule may be announced in class for some problems.
 
 Calendar

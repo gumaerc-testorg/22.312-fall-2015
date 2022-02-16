@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-312-engineering-of-nuclear-reactors-fall-2015/878262bcc7ca511a58a988cf895bf285_ps.m
+file: /media/courses/22-312-engineering-of-nuclear-reactors-fall-2015/878262bcc7ca511a58a988cf895bf285_ps.m
 file_type: text/x-objcsrc
+learning_resource_types:
+- Tools
+ocw_type: OCWFile
+parent_title: Tools
+parent_type: CourseSection
 resourcetype: Other
 title: ps.m
 uid: 878262bc-c7ca-511a-58a9-88cf895bf285

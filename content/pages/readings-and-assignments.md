@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Readings and Assignments
 uid: 4ac2547f-e6a9-d938-44cb-8b3e57bcea65
 ---
@@ -423,7 +425,7 @@ Groeneveld, D. C., et al. "[The 2006 CHF Look-up Table](http://www.sciencedirect
 
 [Groeneveld CHF Look-up Table (TXT)](/courses/nuclear-engineering/22-312-engineering-of-nuclear-reactors-fall-2015/readings-and-assignments/chf_1995.txt)
 
-[Groeneveld CHF Look-up Table for MATLAB® (M)]({{< baseurl >}}/resources/groeneveld3)
+[Groeneveld CHF Look-up Table for MATLAB{{< sup "®" >}} (M)]({{< baseurl >}}/resources/groeneveld3)
 
 
 {{< tdclose >}}
