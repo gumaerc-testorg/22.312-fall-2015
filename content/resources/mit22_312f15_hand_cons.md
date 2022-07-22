@@ -4,6 +4,7 @@ description: This resource contains information regarding engineering of nuclear
 file: /courses/22-312-engineering-of-nuclear-reactors-fall-2015/ff6a5d2e228cff42d5190bd94472d386_MIT22_312F15_hand_cons.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding engineering of nuclear reactors.
-

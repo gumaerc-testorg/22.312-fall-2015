@@ -5,6 +5,7 @@ file: /courses/22-312-engineering-of-nuclear-reactors-fall-2015/8c1bf6f292654390
 file_type: text/x-objcsrc
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection

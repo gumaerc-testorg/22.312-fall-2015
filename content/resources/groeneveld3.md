@@ -4,6 +4,7 @@ description: ''
 file: /courses/22-312-engineering-of-nuclear-reactors-fall-2015/4d6308b74f46fd4cd3a831c8354c0a62_Groeneveld3.m
 file_type: text/x-objcsrc
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection

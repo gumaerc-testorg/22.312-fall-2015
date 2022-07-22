@@ -5,6 +5,7 @@ description: "This resource contains information regarding Quenching of a steel 
 file: /courses/22-312-engineering-of-nuclear-reactors-fall-2015/1a0dcde2dbbd03dc468b5af43fe31f1b_quench_rod.avi
 file_type: video/x-msvideo
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings and Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding Quenching of a steel rodlet (initially heated to 1000°C) in water at 50°C and atmospheric pressure.
-
