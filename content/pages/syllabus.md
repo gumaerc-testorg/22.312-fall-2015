@@ -1,7 +1,17 @@
 ---
 content_type: page
+description: This syllabus section provides a course summary, the course objective,
+  and information on meeting times, prerequisites, textbook and readings, grading,
+  homework and reading assignment practices, and the schedule of course topics, quizzes,
+  and exams.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: daced6d6-3ad2-d0f1-8f10-bf974c740fb5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -49,7 +59,7 @@ Textbook and Readings
 
 The required textbook is Todreas, Neil E., and Mujid S. Kazimi. _Nuclear Systems Volume 1: Thermal Hydraulic Fundamentals_. 2nd ed. CRC Press, 2011. ISBN: 9781439808870. \[Preview with [Google Books](http://books.google.com/books?id=SAvMBQAAQBAJ&pg=PAfrontcover)\] (Revised Printing. CRC Press, July 2015.)
 
-Textbook readings are supplemented by MIT notes on structural mechanics, various handouts, and other references as listed on the [readings]({{< baseurl >}}/pages/readings-and-assignments) page.
+Textbook readings are supplemented by MIT notes on structural mechanics, various handouts, and other references as listed on the {{% resource_link 4ac2547f-e6a9-d938-44cb-8b3e57bcea65 "readings" %}} page.
 
 Grading
 -------
@@ -112,7 +122,7 @@ Homework and Reading Assignment Practices
 1.  Units: You are to conform to recommended engineering practice by using units based on the International System (SI).
 2.  In writing your answers is important that you supply enough information to show how you have solved the problem. It is not necessary to repeat derivations already given in enough detail in the text or lectures.
 3.  It is considered acceptable for you to work completely independently; consult instructor; and / or work with other students. However, do not adopt your solution directly from any outside source without being sure that you understand both concepts and calculations. Points may be deducted if it appears that you do not understand.
-4.  Computer usage: Some homework problems may be solved efficiently using MATLAB®, Mathcad or other computer programs.
+4.  Computer usage: Some homework problems may be solved efficiently using MATLAB{{< sup "®" >}}, Mathcad or other computer programs.
 5.  Late solutions: Solutions submitted after the due date will receive no more than 50% credit. An all-student relaxation of this rule may be announced in class for some problems.
 
 Calendar
