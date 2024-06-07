@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/22-312-engineering-of-nuclear-reactors-fall-2015/152f21261c802f7b566b0bb76f2f8c64_sigma.m
+file_size: 416
 file_type: text/x-objcsrc
 learning_resource_types:
 - Tools
