@@ -12,9 +12,9 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-Textbook: \[T&K\] = Todreas, Neil E., and Mujid S. Kazimi. *Nuclear Systems Volume 1: Thermal Hydraulic Fundamentals*. 2nd ed. CRC Press, 2011. ISBN: 9781439808870. \[Preview with [Google Books](http://books.google.com/books?id=SAvMBQAAQBAJ&pg=PAfrontcover)\] (Revised Printing. CRC Press, July 2015.) \[See also the book's [errata website](http://live-nuclear-systems.gotpantheon.com/content/about-site)\]
+Textbook: \[T&K\] = Todreas, Neil E., and Mujid S. Kazimi. *Nuclear Systems Volume 1: Thermal Hydraulic Fundamentals*. 2nd ed. CRC Press, 2011. ISBN: 9781439808870. \[Preview with [Google Books](http://books.google.com/books?id=SAvMBQAAQBAJ&pg=PAfrontcover)\] (Revised Printing. CRC Press, July 2015.) 
 
-Additional {{% resource_link 4ac2547f-e6a9-d938-44cb-8b3e57bcea65 "useful references" "#Useful_Ref" %}} are listed below the table.
+Additional {{% resource_link "4ac2547f-e6a9-d938-44cb-8b3e57bcea65" "useful references" "#Useful_Ref" %}} are listed below the table.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
@@ -35,7 +35,7 @@ PROBLEMS DUE
 
 {{< tdclose >}}{{< tdopen >}}
 
-- Slides: {{% resource_link 00ab4a70-4944-b9db-8d06-c20d5004fa07 "Introduction to Power Reactor Types (PDF - 5.4MB)" %}}
+- Slides: {{% resource_link "00ab4a70-4944-b9db-8d06-c20d5004fa07" "Introduction to Power Reactor Types (PDF - 5.4MB)" %}}
 - \[T&K\] Chapter 1.
 
 {{< tdclose >}}{{< tdopen >}}
@@ -76,7 +76,7 @@ Lec 4
 
 \[T&K\] Chapter 6.3–6.7.
 
-{{% resource_link ff6a5d2e-228c-ff42-d519-0bd94472d386 "Constitutive Relationships for Solids, Incompressible Fluids, Ideal Gases and Pure Substances (PDF)" %}}
+{{% resource_link "ff6a5d2e-228c-ff42-d519-0bd94472d386" "Constitutive Relationships for Solids, Incompressible Fluids, Ideal Gases and Pure Substances (PDF)" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 2.5, 4.5 (only parts 1 and 2), 4.7, 6.4, 6.5, 6.7 and 6.12
@@ -160,7 +160,7 @@ Single phase thermal-hydraulics: Fluid dynamics and heat transfer
 
 \[T&K\] Chapter 9.5–9.6 and Chapter 10.5.
 
-{{% resource_link 11dff234-2cab-02ca-4675-d53d533d8984 "Methodologies to Select Friction Factor and Convective Heat Transfer Correlations for Single-phase Fluids (PDF)" %}}
+{{% resource_link "11dff234-2cab-02ca-4675-d53d533d8984" "Methodologies to Select Friction Factor and Convective Heat Transfer Correlations for Single-phase Fluids (PDF)" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 9.5, 10.9, 10.10 and 14.9
@@ -177,7 +177,7 @@ Single phase thermal-hydraulics: Loop analysis, turbulence
 Todreas, N., and M. Kazimi. "Flow Loops: Introduction." Chapter 3.1 in *Nuclear Systems Vol. II: Elements Of Thermal Design*. CRC Press, 1990. ISBN: 9781560320791.
 
 {{< tdclose >}}{{< tdopen >}}
-9.4, {{% resource_link a981cb7c-07fd-f152-a594-cd0a7463f1e1 "9.8N (PDF)" %}} and 10.6
+9.4, {{% resource_link "a981cb7c-07fd-f152-a594-cd0a7463f1e1" "9.8N (PDF)" %}} and 10.6
 {{< tdclose >}}{{< tdopen >}}
 Lec 15
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -188,7 +188,7 @@ Two phase flow: Basic parameters and models
 
 \[T&K\] Chapter 5.4–5.5 and Chapter 11.1–11.5.
 
-*Videos of two-phase flow regimes*      
+*Videos of two-phase flow regimes*       
 From Hewitt, Geoffrey F. "[Gas-Liquid Flow](http://dx.doi.org/10.1615/AtoZ.g.gas-liquid_flow)." *Thermopedia*.
 
 - [Bubble Flow](http://www.thermopedia.com/videos/9266/)
@@ -216,7 +216,7 @@ Two phase flow: Critical flow
 {{< tdclose >}}{{< tdopen >}}
 \[T&K\] Chapter 11.7.
 {{< tdclose >}}{{< tdopen >}}
-11.12, {{% resource_link 95d3c0df-be3e-74a7-038e-fefdc2339a37 "11.13N (PDF)" %}}
+11.12, {{% resource_link "95d3c0df-be3e-74a7-038e-fefdc2339a37" "11.13N (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
 Lec 18
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -249,9 +249,9 @@ Two phase heat transfer: Flow boiling
 
 Groeneveld, D. C., et al. "[The 2006 CHF Look-up Table](http://www.sciencedirect.com/science/article/pii/S0029549307002002)." *Nuclear Engineering and Design* 237, no. 15–17 (2007): 1909–22.
 
-{{% resource_link 8ec3c4a7-e881-abbc-b5c6-9873d47ee309 "Groeneveld CHF Look-up Table (TXT)" %}}
+{{% resource_link "8ec3c4a7-e881-abbc-b5c6-9873d47ee309" "Groeneveld CHF Look-up Table (TXT)" %}}
 
-{{% resource_link 4d6308b7-4f46-fd4c-d3a8-31c8354c0a62 "Groeneveld CHF Look-up Table for MATLAB" %}}{{< sup \"®\" >}} {{% resource_link 4d6308b7-4f46-fd4c-d3a8-31c8354c0a62 "(M)" %}}
+{{% resource_link "4d6308b7-4f46-fd4c-d3a8-31c8354c0a62" "Groeneveld CHF Look-up Table for MATLAB" %}}{{\< sup \\"®\\" >}} {{% resource_link "4d6308b7-4f46-fd4c-d3a8-31c8354c0a62" "(M)" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 13.2 and 13.3
@@ -267,9 +267,9 @@ Two phase heat transfer: Boiling crises and post-boiling-crisis heat transfer
 
 *Videos*
 
-- {{% resource_link 48fe07be-ace4-5733-ea18-fb8ec283d4d9 "Quenching of a Steel Sphere in a Subcooled Water at Atmospheric Pressure (WMV - 1.8MB)" %}}
-- {{% resource_link 1a0dcde2-dbbd-03dc-468b-5af43fe31f1b "Quenching of a Steel Rodlet (Initially Heated to 1000°C) in Water at 50°C and Atmospheric Pressure (AVI - 6.0MB)" %}}
-- {{% resource_link b1f7725f-a556-4914-7b8b-db03b3a49b52 "Occurance of Critical Heat Flux (or Departure from Nucleate Boiling) in Water Boiling at Atmospheric Pressure Off of an Electrically Heated Wire (WMV - 6.3MB)" %}}
+- {{% resource_link "48fe07be-ace4-5733-ea18-fb8ec283d4d9" "Quenching of a Steel Sphere in a Subcooled Water at Atmospheric Pressure (WMV - 1.8MB)" %}}
+- {{% resource_link "1a0dcde2-dbbd-03dc-468b-5af43fe31f1b" "Quenching of a Steel Rodlet (Initially Heated to 1000°C) in Water at 50°C and Atmospheric Pressure (AVI - 6.0MB)" %}}
+- {{% resource_link "b1f7725f-a556-4914-7b8b-db03b3a49b52" "Occurance of Critical Heat Flux (or Departure from Nucleate Boiling) in Water Boiling at Atmospheric Pressure Off of an Electrically Heated Wire (WMV - 6.3MB)" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 13.4, 13.6, 13.7 and 14.7
@@ -301,12 +301,12 @@ Two phase flow and heat transfer: In-class demonstrations of flow regimes, insta
 Structural mechanics: Elasticity fundamentals and thin-shell theory
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link eb49bc4f-3e70-1be6-0ca6-51c5a109312f "Note L.4: Introduction to Structural Mechanics (PDF - 1.1MB)" %}}
+{{% resource_link "eb49bc4f-3e70-1be6-0ca6-51c5a109312f" "Note L.4: Introduction to Structural Mechanics (PDF - 1.1MB)" %}}
 
-{{% resource_link 305bdbd0-2c1b-1d45-13a5-b8c132034814 "Note L.6: Behavior of Solids In Simple Mechanical Tests (PDF)" %}}
+{{% resource_link "305bdbd0-2c1b-1d45-13a5-b8c132034814" "Note L.6: Behavior of Solids In Simple Mechanical Tests (PDF)" %}}
 
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link bfee6638-5f95-6798-1b86-987bf5e5940e "Structural mechanics problems S.1, S.2 (PDF)" %}}
+{{% resource_link "bfee6638-5f95-6798-1b86-987bf5e5940e" "Structural mechanics problems S.1, S.2 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
 optional
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -315,12 +315,12 @@ optional
 Structural mechanics: Stress categorization and ASME Codes
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link 2b027006-8125-4212-95aa-f68bdd3ea798 "Synoptic Guide to ASME Codes (PDF)" %}} (Courtesy of Anna Erickson. Used with permission.)
+{{% resource_link "2b027006-8125-4212-95aa-f68bdd3ea798" "Synoptic Guide to ASME Codes (PDF)" %}} (Courtesy of Anna Erickson. Used with permission.)
 
-{{% resource_link d831dfa3-016c-644d-11e3-789dbe15eeb0 "ASME Vessel Design Limits (PDF)" %}} (Courtesy of Anna Erickson. Used with permission.)
+{{% resource_link "d831dfa3-016c-644d-11e3-789dbe15eeb0" "ASME Vessel Design Limits (PDF)" %}} (Courtesy of Anna Erickson. Used with permission.)
 
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link f9868f09-8a95-cbaa-f462-25f9d7a14d44 "Structural mechanics problems S.3, S.4, S.5 (PDF)" %}}
+{{% resource_link "f9868f09-8a95-cbaa-f462-25f9d7a14d44" "Structural mechanics problems S.3, S.4, S.5 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
 optional
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -345,22 +345,22 @@ Knief, R. A. *Nuclear Engineering: Theory and Technology of Commercial Nuclear P
 
 ### Thermal-Hydraulics
 
-Conservation equations      
+Conservation equations       
 Bird, R. B., W. E. Stewart, and E. N. Lightfoot. *Transport Phenomena*. John Wiley and Sons, 1960. ISBN: 9780471073925.
 
-Single-phase fluid dynamics and heat transfer      
+Single-phase fluid dynamics and heat transfer       
 Incropera, F. P., and D. P. DeWitt. *Fundamentals of Heat and Mass Transfer*. John Wiley and Sons, 1990. ISBN: 9780471517290.
 
-Boiling & two-phase flow      
+Boiling & two-phase flow       
 Carey, V. P. *Liquid-Vapor Phase-Change Phenomena*. 2nd ed. CRC Press, 2007. ISBN: 9781591690351.
 
-PWR thermal design      
+PWR thermal design       
 Tong, L. S., and J. Weisman. *Thermal Analysis of Pressurized Water Reactors*. 3rd ed. Amer Nuclear Society, 1996. ISBN: 9780894480386.
 
-BWR thermal design      
+BWR thermal design       
 Jr. Lahey, T. R., and F. J. Moody. *The Thermal-Hydraulics of a Boiling Water Nuclear Reactor*. 2nd ed. American Nuclear Society, 1993. ISBN: 9780894480379.
 
-Thermal-hydraulic design methodologies      
+Thermal-hydraulic design methodologies       
 Todreas, N. E., and M. S. Kazimi. *Nuclear Systems II: Elements of Thermal Hydraulic Design*. CRC Press, 1990. ISBN: 9781560320791. \[Preview with [Google Books](http://books.google.com/books?id=zwyToqVDVGwC&pg=PAfrontcover)\]
 
 ### Structural Mechanics
