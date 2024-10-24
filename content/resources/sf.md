@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/22-312-engineering-of-nuclear-reactors-fall-2015/37286d5334efa89fee0be20118d4906c_sf.m
+file: /ol-ocw-studio-app/courses/22-312-engineering-of-nuclear-reactors-fall-2015/37286d5334efa89fee0be20118d4906c_sf.m
 file_size: 481
 file_type: text/x-objcsrc
 learning_resource_types:
