@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Quenching of a steel sphere
   in a subcooled water at atmospheric pressure.
-file: /courses/22-312-engineering-of-nuclear-reactors-fall-2015/48fe07beace45733ea18fb8ec283d4d9_dnb_wire.wmv
+file: /ol-ocw-studio-app/courses/22-312-engineering-of-nuclear-reactors-fall-2015/48fe07beace45733ea18fb8ec283d4d9_dnb_wire.wmv
 file_size: 1909699
 file_type: video/x-ms-wmv
 learning_resource_types: []
