@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding introduction to structural
   mechanics.
-file: /ol-ocw-studio-app/courses/22-312-engineering-of-nuclear-reactors-fall-2015/eb49bc4f3e701be60ca651c5a109312f_MIT22_312F15_note_L4.pdf
+file: /courses/22-312-engineering-of-nuclear-reactors-fall-2015/eb49bc4f3e701be60ca651c5a109312f_MIT22_312F15_note_L4.pdf
 file_size: 1123750
 file_type: application/pdf
 learning_resource_types: []

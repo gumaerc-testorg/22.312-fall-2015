@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding engineering of nuclear reactors.
-file: /ol-ocw-studio-app/courses/22-312-engineering-of-nuclear-reactors-fall-2015/11dff2342cab02ca4675d53d533d8984_MIT22_312F15_hand_spf.pdf
+file: /courses/22-312-engineering-of-nuclear-reactors-fall-2015/11dff2342cab02ca4675d53d533d8984_MIT22_312F15_hand_spf.pdf
 file_size: 637817
 file_type: application/pdf
 learning_resource_types: []
