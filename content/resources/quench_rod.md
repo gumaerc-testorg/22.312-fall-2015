@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains information regarding Quenching of a steel rodlet\
   \ (initially heated to 1000\xB0C) in water at 50\xB0C and atmospheric pressure."
-file: /ol-ocw-studio-app/courses/22-312-engineering-of-nuclear-reactors-fall-2015/1a0dcde2dbbd03dc468b5af43fe31f1b_quench_rod.avi
+file: /courses/22-312-engineering-of-nuclear-reactors-fall-2015/1a0dcde2dbbd03dc468b5af43fe31f1b_quench_rod.avi
 file_size: 6270976
 file_type: video/x-msvideo
 learning_resource_types: []

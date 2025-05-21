@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding engineering of nuclear reactors
   exam.
-file: /ol-ocw-studio-app/courses/22-312-engineering-of-nuclear-reactors-fall-2015/48688ac4e332ed509d1dd9b49788f6e1_MIT22_312F15_final_2015Sol.pdf
+file: /courses/22-312-engineering-of-nuclear-reactors-fall-2015/48688ac4e332ed509d1dd9b49788f6e1_MIT22_312F15_final_2015Sol.pdf
 file_size: 779064
 file_type: application/pdf
 learning_resource_types:
