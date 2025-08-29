@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding Occurance of critical heat
   flux (or departure from nucleate boiling) in water boiling at atmospheric pressure
   off of an electrically heated wire.
-file: /courses/22-312-engineering-of-nuclear-reactors-fall-2015/b1f7725fa55649147b8bdb03b3a49b52_quench_sphere.wmv
+file: /ol-ocw-studio-app/courses/22-312-engineering-of-nuclear-reactors-fall-2015/b1f7725fa55649147b8bdb03b3a49b52_quench_sphere.wmv
 file_size: 6622667
 file_type: video/x-ms-wmv
 learning_resource_types: []
