@@ -12,7 +12,7 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-Textbook: \[T&K\] = Todreas, Neil E., and Mujid S. Kazimi. *Nuclear Systems Volume 1: Thermal Hydraulic Fundamentals*. 2nd ed. CRC Press, 2011. ISBN: 9781439808870. \[Preview with [Google Books](http://books.google.com/books?id=SAvMBQAAQBAJ&pg=PAfrontcover)\] (Revised Printing. CRC Press, July 2015.) 
+Textbook: \[T&K\] = Todreas, Neil E., and Mujid S. Kazimi. *Nuclear Systems Volume 1: Thermal Hydraulic Fundamentals*. 2nd ed. CRC Press, 2011. ISBN: 9781439808870. \[Preview with {{% resource_link "cc99a11f-633e-4d61-8f86-ef2042c17eef" "Google Books" %}}\] (Revised Printing. CRC Press, July 2015.) 
 
 Additional {{% resource_link "4ac2547f-e6a9-d938-44cb-8b3e57bcea65" "useful references" "#Useful_Ref" %}} are listed below the table.
 
@@ -189,11 +189,11 @@ Two phase flow: Basic parameters and models
 \[T&K\] Chapter 5.4–5.5 and Chapter 11.1–11.5.
 
 *Videos of two-phase flow regimes*       
-From Hewitt, Geoffrey F. "[Gas-Liquid Flow](http://dx.doi.org/10.1615/AtoZ.g.gas-liquid_flow)." *Thermopedia*.
+From Hewitt, Geoffrey F. "{{% resource_link "b2d5c888-f6cf-4e3b-b7a9-79c574aa6a3d" "Gas-Liquid Flow" %}}." *Thermopedia*.
 
-- [Bubble Flow](http://www.thermopedia.com/videos/9266/)
-- [Slug or Plug Flow](http://www.thermopedia.com/videos/9267/)
-- [Annular Flow](http://www.thermopedia.com/videos/9269/)
+- {{% resource_link "a55c633a-e94e-441a-b0a2-7e6ddb8557b0" "Bubble Flow" %}}
+- {{% resource_link "110a7094-c77a-4539-a5a5-65be149e6101" "Slug or Plug Flow" %}}
+- {{% resource_link "a0abbade-9464-46d7-a2e9-e497600b6595" "Annular Flow" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 5.1, 5.3, 11.5 and 11.7
@@ -247,7 +247,7 @@ Two phase heat transfer: Flow boiling
 
 \[T&K\] Chapter 13.1–13.3.
 
-Groeneveld, D. C., et al. "[The 2006 CHF Look-up Table](http://www.sciencedirect.com/science/article/pii/S0029549307002002)." *Nuclear Engineering and Design* 237, no. 15–17 (2007): 1909–22.
+Groeneveld, D. C., et al. "{{% resource_link "5652fd54-3987-4320-bbb7-8364909fb4c9" "The 2006 CHF Look-up Table" %}}." *Nuclear Engineering and Design* 237, no. 15–17 (2007): 1909–22.
 
 {{% resource_link "8ec3c4a7-e881-abbc-b5c6-9873d47ee309" "Groeneveld CHF Look-up Table (TXT)" %}}
 
@@ -341,7 +341,7 @@ None
 
 ### General Nuclear Engineering
 
-Knief, R. A. *Nuclear Engineering: Theory and Technology of Commercial Nuclear Power*. Hemisphere Publishing Corporation, 1992. ISBN: 9781560320890. \[Preview with [Google Books](http://books.google.com/books?id=EpuaUEQaeoUC&pg=PAfrontcover)\] 
+Knief, R. A. *Nuclear Engineering: Theory and Technology of Commercial Nuclear Power*. Hemisphere Publishing Corporation, 1992. ISBN: 9781560320890. \[Preview with {{% resource_link "35c7a4c0-5353-469d-9ed3-93f865cd8703" "Google Books" %}}\] 
 
 ### Thermal-Hydraulics
 
@@ -361,10 +361,10 @@ BWR thermal design     
 Jr. Lahey, T. R., and F. J. Moody. *The Thermal-Hydraulics of a Boiling Water Nuclear Reactor*. 2nd ed. American Nuclear Society, 1993. ISBN: 9780894480379.
 
 Thermal-hydraulic design methodologies       
-Todreas, N. E., and M. S. Kazimi. *Nuclear Systems II: Elements of Thermal Hydraulic Design*. CRC Press, 1990. ISBN: 9781560320791. \[Preview with [Google Books](http://books.google.com/books?id=zwyToqVDVGwC&pg=PAfrontcover)\]
+Todreas, N. E., and M. S. Kazimi. *Nuclear Systems II: Elements of Thermal Hydraulic Design*. CRC Press, 1990. ISBN: 9781560320791. \[Preview with {{% resource_link "87958d8a-9939-4084-8d83-5dc392829d7c" "Google Books" %}}\]
 
 ### Structural Mechanics
 
 Harvey, J. F. *Theory and Design of Pressure Vessels*. Van Nostrand Reinhold, 1985. ISBN: 9780442232481.
 
-["*ASME Boiler & Pressure Vessel Code, An International Code*." (PDF)](http://files.asme.org/catalog/codes/printbook/13883.pdf) Section II and Section III (Subsections NB and NH), 2007.
+{{% resource_link "5ec1ce08-8e3a-4a2a-84f5-fa927b711319" "\"*ASME Boiler & Pressure Vessel Code, An International Code*.\" (PDF)" %}} Section II and Section III (Subsections NB and NH), 2007.
