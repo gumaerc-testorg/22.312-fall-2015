@@ -57,7 +57,7 @@ Course Summary
 Textbook and Readings
 ---------------------
 
-The required textbook is Todreas, Neil E., and Mujid S. Kazimi. _Nuclear Systems Volume 1: Thermal Hydraulic Fundamentals_. 2nd ed. CRC Press, 2011. ISBN: 9781439808870. \[Preview with [Google Books](http://books.google.com/books?id=SAvMBQAAQBAJ&pg=PAfrontcover)\] (Revised Printing. CRC Press, July 2015.)
+The required textbook is Todreas, Neil E., and Mujid S. Kazimi. _Nuclear Systems Volume 1: Thermal Hydraulic Fundamentals_. 2nd ed. CRC Press, 2011. ISBN: 9781439808870. \[Preview with {{% resource_link "cc99a11f-633e-4d61-8f86-ef2042c17eef" "Google Books" %}}\] (Revised Printing. CRC Press, July 2015.)
 
 Textbook readings are supplemented by MIT notes on structural mechanics, various handouts, and other references as listed on the {{% resource_link 4ac2547f-e6a9-d938-44cb-8b3e57bcea65 "readings" %}} page.
 
