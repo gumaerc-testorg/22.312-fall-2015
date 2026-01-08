@@ -16,7 +16,7 @@ video_metadata:
 Properties of Water
 -------------------
 
-{{% resource_link "f6b79630-7685-406d-bc74-3b9348d8d09d" "SteamTab Companion" %}}  
+[SteamTab Companion](http://www.chemicalogic.com/Pages/DownloadSteamTabCompanion.html)  
 A free Windows application from ChemicaLogic that models the thermodynamic and transport properties of water and steam.
 
 MATLAB{{< sup "®" >}} Scripts
